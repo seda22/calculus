@@ -1,3 +1,6 @@
+//this is the main class which will implement all functions
+//only need to call this function
+
 package io.calculus.logic;
 public class Main
 {

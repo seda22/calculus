@@ -2,6 +2,7 @@
 //currently only supports differentiation & integration others to be added subsequently
 //1=integration
 //2=diff
+//use to display instructions for poewr root etc symbol usages
 
 package io.calculus.logic;
 import java.util.*;
